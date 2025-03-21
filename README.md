@@ -5,14 +5,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Priyank+Bagad!" alt="Typing SVG" />
 </p>
 
-### 📊 GitHub Stats: 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyankbagad&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=priyankbagad&theme=dark&hide_border=false"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankbagad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-</p>
+### 📊 GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyankbagad&show_icons=true&locale=en&layout=compact" alt="priyankbagad" /></p>
 
-### 🏆 GitHub Trophies: 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyankbagad&show_icons=true&locale=en" alt="priyankbagad" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyankbagad&" alt="priyankbagad" /></p>
+
+### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=priyankbagad&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
 </p>
@@ -23,24 +23,13 @@
 
 
 
-### ✍️ Dev Quote:
+### ✍️ Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
 
 
-
-
-
-
-<p align="left"> <a href="https://twitter.com/priyankbagad" target="blank"><img src="https://img.shields.io/twitter/follow/priyankbagad?logo=twitter&style=for-the-badge" alt="priyankbagad" /></a> </p>
-
-- 🌱 I’m currently learning **MERN Stack**
-
-- 💬 Ask me about **React, Node, MongoDB, Express, Python**
-
-- 📫 How to reach me **priyankbagad@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -51,8 +40,4 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyankbagad&show_icons=true&locale=en&layout=compact" alt="priyankbagad" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyankbagad&show_icons=true&locale=en" alt="priyankbagad" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyankbagad&" alt="priyankbagad" /></p>
