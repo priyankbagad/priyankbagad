@@ -13,7 +13,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyankbagad&" alt="priyankbagad" /></p>
 
 ### 🏆 GitHub Trophies
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=priyankbagad&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
 </p>
 
